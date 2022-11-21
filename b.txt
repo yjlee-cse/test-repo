@@ -1,1 +1,3 @@
 text file B
+This is written in Github
+|
